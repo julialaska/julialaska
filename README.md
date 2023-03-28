@@ -6,11 +6,10 @@
 
 <h2>🚀 Projects</h2>
 
-<ul>
-  <li><strong>[Bookstore management system](https://github.com/julialaska/Bookstore-Django-project) </strong>The Bookstore Management System is a web application built using Django, which allows for the management of books, clients reviews, orders and deliveries. It features authorization, with user roles such as regular user (client) and administrator, and includes a test suite to ensure functionality and prevent regressions. This project was created as part of my studies in web development </li>
-  <li><strong>[E-commerce shop](https://github.com/julialaska/E-commerce-website)</strong> Also a Django web application with TailwindCSS, where users can browse and purchase products from a fictional shop. The application includes features such as user authentication, shopping cart functionality, login and signup.</li>
-  <li><strong>[Bookstore CRUD application](https://github.com/julialaska/Web-applications-programming)</strong> The application is written with PHP using object-oriented programming (OOP) principles and includes features such as form validation, password hashing and is designed to perform CRUD operations on a database of users.</li>
-</ul>
+  <strong>[Bookstore management system](https://github.com/julialaska/Bookstore-Django-project) </strong>The Bookstore Management System is a web application built using Django, which allows for the management of books, clients reviews, orders and deliveries. It features authorization, with user roles such as regular user (client) and administrator, and includes a test suite to ensure functionality and prevent regressions. This project was created as part of my studies in web development </li>
+  <strong>[E-commerce shop](https://github.com/julialaska/E-commerce-website)</strong> Also a Django web application with TailwindCSS, where users can browse and purchase products from a fictional shop. The application includes features such as user authentication, shopping cart functionality, login and signup.</li>
+  <strong>[Bookstore CRUD application](https://github.com/julialaska/Web-applications-programming)</strong> The application is written with PHP using object-oriented programming (OOP) principles and includes features such as form validation, password hashing and is designed to perform CRUD operations on a database of users.</li>
+
 
 <p>Feel free to check out the code and leave comments or suggestions! 😊</p>
 
