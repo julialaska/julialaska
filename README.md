@@ -2,20 +2,20 @@
 
 <h1>👋 Hello!</h1>
 
-<p>I'm Julia Łaska, a 🎓<strong> 3rd year university student,</strong> currently studying <strong>machine learning 📚</strong>. This is the place where I share my <strong>projects</strong> and <strong>learnings</strong>.</p>
+I'm Julia Łaska, a <strong> 3rd year university student 🎓,</strong> currently studying <strong>machine learning 📚</strong>. This is the place where I share my <strong>projects</strong> and <strong>learnings</strong>.
 
 <h2>🚀 Projects</h2>
 
-  - <strong>[Bookstore management system](https://github.com/julialaska/Bookstore-Django-project) </strong>The Bookstore Management System is a web application built using Django, which allows for the management of books, clients reviews, orders and deliveries. It features authorization, with user roles such as regular user (client) and administrator, and includes a test suite to ensure functionality and prevent regressions. This project was created as part of my studies in web development </li>
-  - <strong>[E-commerce shop](https://github.com/julialaska/E-commerce-website)</strong> Also a Django web application with TailwindCSS, where users can browse and purchase products from a fictional shop. The application includes features such as user authentication, shopping cart functionality, login and signup.</li>
-  - <strong>[Bookstore CRUD application](https://github.com/julialaska/Web-applications-programming)</strong> The application is written with PHP using object-oriented programming (OOP) principles and includes features such as form validation, password hashing and is designed to perform CRUD operations on a database of users.</li>
+  - 📚 <strong>[Bookstore management system](https://github.com/julialaska/Bookstore-Django-project) </strong>The Bookstore Management System is a web application built using Django, which allows for the management of books, clients reviews, orders and deliveries. It features authorization, with user roles such as regular user (client) and administrator, and includes a test suite to ensure functionality and prevent regressions. This project was created as part of my studies in web development </li>
+  - 👨‍💻 <strong>[E-commerce shop](https://github.com/julialaska/E-commerce-website)</strong> Also a Django web application with TailwindCSS, where users can browse and purchase products from a fictional shop. The application includes features such as user authentication, shopping cart functionality, login and signup.</li>
+  - 💻 <strong>[Bookstore CRUD application](https://github.com/julialaska/Web-applications-programming)</strong> The application is written with PHP using object-oriented programming (OOP) principles and includes features such as form validation, password hashing and is designed to perform CRUD operations on a database of users.</li>
 
 
 <p>Feel free to check out the code and leave comments or suggestions! 😊</p>
 
 <h2>🔢 Statistics</h2>
 
-<p>Here's a summary of the programming languages used in my GitHub repositories:</p>
+<p>Here's a summary of the programming languages used in my repositories:</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julialaska&layout=compact&bg_color=10,e96480,904e95&title_color=fff&text_color=fff">
 
